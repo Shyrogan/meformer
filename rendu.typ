@@ -13,6 +13,8 @@
 
 #rect(fill: rgb("#FF000030"))[
   *Les réponses ne correspondent pas exactement à ce qui a été obtenu, j'ai omi les parties qui ne m'intéressaient pas et les erreurs que j'ai fixé à la main en quelques secondes.*
+
+  Le code est disponible à l'URL suivante: #link("https://github.com/Shyrogan/meformer/")
 ]
 
 #prompt([
